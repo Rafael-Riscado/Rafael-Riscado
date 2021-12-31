@@ -20,7 +20,7 @@
   ##
  
  
-  ![Snake animation](https://github.com/Rafael-Riscado/Rafael-Riscado/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/rafael-riscado/rafael-riscado/blob/output/github-contribution-grid-snake.svg)
  
 </div>
 
