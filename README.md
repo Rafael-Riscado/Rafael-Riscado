@@ -1,6 +1,6 @@
 ### Olá!Eu sou Rafael Riscado
 
-- 🔭 Estou estudando desenvolvimento web full stack(Front-end:Html,css,bootstrap e  ECMAScript 6||Back end:Php,MySQL,Ajax,JQuery)
+- 🔭 Sou um estudante de engenharia, resolução de problemas e curiosidade está no meu dna! Aqui mostro um pouco de meus estudos pessoais. Python, Power Bi, Autocad, Revit, Dynamo, Marketing Digital, impressão 3d
 
 <div align="center">
   <a href="https://github.com/Rafael-Riscado">
